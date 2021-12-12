@@ -1,0 +1,1 @@
+# NonQuery-Syntax-in-Csharp-Linq
